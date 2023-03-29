@@ -24,7 +24,6 @@ body {
 .parent {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
 }
 
 .parent .resultBox {
